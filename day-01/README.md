@@ -44,3 +44,5 @@ I followed the interactive Datacamp's course - Introduction to Shell - and used 
 ## Output
 
 (Include links, screenshots, code snippets, or results)
+<img width="1280" height="974" alt="day1" src="https://github.com/user-attachments/assets/d67aca7e-e962-45cb-aa12-94bbfdc82466" />
+

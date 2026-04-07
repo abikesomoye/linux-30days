@@ -3,6 +3,7 @@
 ## Objective
 
 What was the goal for today?
+File Commands
 
 ---
 
@@ -34,16 +35,17 @@ What was the goal for today?
 ## Key Takeaways
 
 - Commands like cp, mv, rm are straight forward to use in linux
-- 
+  
 
 ---
 
 ## Resources
 
-- 
+- Datacamp: Introduction to Shell
 
 ---
 
 ## Output
 
 (Include links, screenshots, code snippets, or results)
+<img width="1280" height="974" alt="day5" src="https://github.com/user-attachments/assets/78b62eae-9799-48cf-8727-8a79321c2741" />

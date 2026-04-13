@@ -4,6 +4,8 @@
 
 What was the goal for today?
 
+Sort Lines of Text of
+
 ---
 
 ## What I Learned

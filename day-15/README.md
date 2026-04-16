@@ -33,14 +33,15 @@ Variables Stored in Shell
 
 ## Key Takeaways
 
-- 
-- 
+- We have environment variables and shell variables.
+- Environment variables are written in upper case by convention
+- To call the value of a variable put $ infront of the variable
 
 ---
 
 ## Resources
 
-- 
+- Datacamp Introduction to Shell
 
 ---
 

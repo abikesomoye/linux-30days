@@ -4,6 +4,7 @@
 
 What was the goal for today?
 
+Bash Scripting
 ---
 
 ## What I Learned

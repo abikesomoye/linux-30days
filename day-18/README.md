@@ -40,7 +40,7 @@ Passing filenames to scripts
 
 ## Resources
 
-- 
+- Datacamp Introduction to Shell
 
 ---
 

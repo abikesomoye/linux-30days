@@ -4,6 +4,8 @@
 
 What was the goal for today?
 
+Passing filenames to scripts
+
 ---
 
 ## What I Learned

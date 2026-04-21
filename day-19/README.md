@@ -1,4 +1,4 @@
-# Day 19 - [Topic]
+8# Day 19 - [Topic]
 
 ## Objective
 
@@ -23,7 +23,7 @@ More about Loops
 -   tail -n 1 $filename
 - done
 - bash date-range.sh seasonal/*.csv | sort
-- 
+  
 
 ---
 
@@ -36,14 +36,14 @@ More about Loops
 
 ## Key Takeaways
 
-- Datacamp Introduction to Shell
+- if one is typing a one line loop it is necessary to add ; semi-colon. Otherwise you remove it
 - 
 
 ---
 
 ## Resources
 
-- 
+- Datacamp Introduction to Shell
 
 ---
 

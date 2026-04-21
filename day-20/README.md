@@ -30,7 +30,7 @@ What was the goal for today?
 
 ## Key Takeaways
 
-- 
+- Bash stands for Bourne Again Shell and its the default for mac and Unix systems.
 - 
 
 ---

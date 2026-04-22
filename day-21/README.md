@@ -4,6 +4,7 @@
 
 What was the goal for today?
 
+Configuring Bash Shell Environment 
 ---
 
 ## What I Learned

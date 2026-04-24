@@ -1,4 +1,4 @@
-# Day 02 - [Topic]
+# Day 02 - Files
 
 ## Objective
 

@@ -1,9 +1,9 @@
-# Day 05 - [Topic]
+# Day 05 - File Commands
 
 ## Objective
 
 What was the goal for today?
-File Commands
+Simple File Commands
 
 ---
 

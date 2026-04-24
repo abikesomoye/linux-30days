@@ -1,4 +1,4 @@
-# Day 20 - [Topic]
+# Day 20 - Bash Script Anatomy
 
 ## Objective
 
@@ -47,7 +47,7 @@ Loops: for, while, until
 pwd
 - echo "Files in Directory:"
 ls -l
-- 
+- To run it use bash script_name.sh but if #!/bin/bash in the first line simply run it using./script_name.sh
 
 ---
 

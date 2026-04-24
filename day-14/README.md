@@ -1,4 +1,4 @@
-# Day 14 - [Topic]
+# Day 14 - Sort Command
 
 ## Objective
 
@@ -21,7 +21,7 @@ Sort Lines of Text
 
 - sort -n | head -n 1 prints the largest value
 - cut -d , -f 2 seasonal/winter.csv | grep -v Tooth | sort -r sorts the result in descending order
-- cut -d , -f 2 seasonal/winter.csv | grep -v Tooth | sort | uniq -c this reoves adjacent duplicates in the result and counts
+- cut -d , -f 2 seasonal/winter.csv | grep -v Tooth | sort | uniq -c this removes adjacent duplicates in the result and counts
 
 ---
 
@@ -34,8 +34,8 @@ Sort Lines of Text
 
 ## Key Takeaways
 
-- Usually pipelines often uses grep to remove unwanted records while sort puts the records in order
-- 
+- Usually pipelines often use grep to remove unwanted records while sort puts the records in order
+
 
 ---
 

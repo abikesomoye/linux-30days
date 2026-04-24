@@ -1,4 +1,4 @@
-# Day 08 - [Topic]
+# Day 08 - Linux Architecture 
 
 ## Objective
 

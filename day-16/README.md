@@ -1,10 +1,10 @@
-# Day 16 - [Topic]
+# Day 16 - For Loop
 
 ## Objective
 
 What was the goal for today?
 
-For Loops 
+For Loops command on a single line
 
 ---
 

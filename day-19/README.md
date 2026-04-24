@@ -1,4 +1,4 @@
-8# Day 19 - [Topic]
+8# Day 19 - Loop Command part 2
 
 ## Objective
 

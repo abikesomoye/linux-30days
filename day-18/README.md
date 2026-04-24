@@ -1,4 +1,4 @@
-# Day 18 - [Topic]
+# Day 18 - Using $@ and $1 $2
 
 ## Objective
 

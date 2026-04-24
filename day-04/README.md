@@ -1,4 +1,4 @@
-# Day 04 - [Topic]
+# Day 04 - Short Notations 
 
 ## Objective
 

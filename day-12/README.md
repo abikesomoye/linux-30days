@@ -1,4 +1,4 @@
-# Day 12 - [Topic]
+# Day 12 - WC Command
 
 ## Objective
 

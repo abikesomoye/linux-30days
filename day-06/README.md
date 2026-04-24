@@ -1,4 +1,4 @@
-# Day 06 - [Topic]
+# Day 06 - Less Command
 
 ## Objective
 
@@ -42,7 +42,7 @@ Learning Less command
 
 ## Resources
 
-- 
+- Datacamp Introduction to shell
 
 ---
 

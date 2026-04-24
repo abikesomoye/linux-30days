@@ -28,7 +28,18 @@ expr, bc command
 - returns
 - The total score is 176.85
 - The average score is 88
-- 
+
+- Anothe example converting Fahrenheit to Celsius
+- #!/usr/bash
+- temp_f=$1
+- #Subtract 32
+- temp_f2=$(echo "scale=2; $temp_f -32" |bc)
+- #Multiply by 5/9
+- temp_c=$(echo "scale=2; $temp_f2 * 5 * 9" | bc)
+- #Print the Celcius temperature
+- echo $temp_c
+
+- To run it bash script.sh 108
 
 ---
 

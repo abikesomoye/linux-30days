@@ -1,8 +1,9 @@
-# Day 09 - [Topic]
+# Day 09 - Head, Tail & Man Commands
 
 ## Objective
 
 What was the goal for today?
+
 head, tail and man commands
 
 ---

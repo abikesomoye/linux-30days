@@ -1,4 +1,4 @@
-# Day 07 - [Topic]
+# Day 07 - Linux Distributions 
 
 ## Objective
 

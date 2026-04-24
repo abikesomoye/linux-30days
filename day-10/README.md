@@ -1,4 +1,4 @@
-# Day 10 - [Topic]
+# Day 10 - Cut & Grep Commands
 
 ## Objective
 

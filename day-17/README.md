@@ -1,16 +1,16 @@
-# Day 17 - [Topic]
+# Day 17 - Nano Editor
 
 ## Objective
 
 What was the goal for today?
 
-Editing in a file
+Using nano editor
 
 ---
 
 ## What I Learned
 
-- used nano editor to open or create a file if it doesnt exist. be be
+- use nano editor to open or create a file if it doesnt exist. 
 - To save press Ctrl + O and enter to confirm the filename.
 - To exit press Ctrl + X
 - To run the file, type bash header.sh as example 
@@ -35,7 +35,7 @@ Editing in a file
 
 ## Key Takeaways
 
-- A file full of shell commands is called a shell script ending with .sh up
+- A file full of shell commands is called a shell script ending with .sh
 - 
 
 ---

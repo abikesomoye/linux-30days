@@ -1,4 +1,4 @@
-# Day 26 - [Topic]
+# Day 26 - Arrays
 
 ## Objective
 
@@ -37,7 +37,7 @@ What was the goal for today?
 
 ## Resources
 
-- 
+- Datacamp Introduction to Bash Scripting
 
 ---
 

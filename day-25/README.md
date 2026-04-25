@@ -3,7 +3,8 @@
 ## Objective
 
 What was the goal for today?
-expr, bc command
+
+expr, bc commands
 ---
 
 ## What I Learned
@@ -24,12 +25,12 @@ expr, bc command
 - model1=87.65
 - model2=89.20
 - echo "The total score is $(echo "model1 + model2" | bc)"
-- echi "The average score is $(echo "($model1 + $model2)/2" | bc"
+- echo "The average score is $(echo "($model1 + $model2)/2" | bc"
 - returns
 - The total score is 176.85
 - The average score is 88
 
-- Anothe example converting Fahrenheit to Celsius
+- Another example converting Fahrenheit to Celsius
 - #!/usr/bash
 - temp_f=$1
 - #Subtract 32

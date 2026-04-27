@@ -42,8 +42,16 @@ eg echo ${!city_details[@]}
 
 ## What I Built / Practiced
 
-- 
-- 
+- capital_cities=("Sydney" "Albany" "Paris")
+- echo ${capital_cities[@]}
+- echo ${#capital_cities[@]}
+
+- Associative Arrays
+- declare -A model_metrics
+- model_metrics[model_name]="knn"
+- model_metrics[model_f1]=0.82
+- model_metrics[model_accuracy]=98
+- echo ${!model_metrics[@]}
 
 ---
 

@@ -18,8 +18,7 @@ What was the goal for today?
 - *)
 - DEFAULT COMMAND;;
 - esac
-- 
-- 
+
 
 ---
 
@@ -55,7 +54,7 @@ What was the goal for today?
 ## Key Takeaways
 
 - CASE statements help create ckearer and more efficient code in cases of complex or multiple IF statementsg
-- 
+  
 
 ---
 

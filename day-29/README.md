@@ -32,7 +32,18 @@ What was the goal for today?
 -   rm $1 ;;
 -   *canberra*)
 -   mv $1 "IMPORTANT_$1" ;;
+-   esac
+
+-   case $1 in
+-   Monday|Tuesday|Wednesday|Thursday|Friday)
+-   echo "It is a Weekday!;;
+-   Saturday|Sunday)
+-   echo "It is a weekend!";;
+-   *)
+-   echo "It is not a day";;
+-   esac
 ---
+
 
 ## Challenges Faced
 
@@ -50,7 +61,7 @@ What was the goal for today?
 
 ## Resources
 
-- 
+- Datacamp Introduction to Bash Scripting
 
 ---
 

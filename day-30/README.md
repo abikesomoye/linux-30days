@@ -4,6 +4,8 @@
 
 What was the goal for today?
 
+Bash Functions
+
 ---
 
 ## What I Learned
@@ -12,15 +14,14 @@ What was the goal for today?
 -   function code
 -   return something
 - }
-
+Second method.
 - syntax function function_name {
 -   function code
 -   return something
 - }
 
 - To call a function type the function name
-- 
-- 
+  
 
 ---
 
@@ -63,7 +64,7 @@ What was the goal for today?
 
 ## Resources
 
-- 
+- Datacamp Introduction to Bash Scripting
 
 ---
 
